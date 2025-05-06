@@ -1,2 +1,2 @@
 # Portfolio
-Proyectos pequeños
+Proyectos y scripts hechos para practicar.
